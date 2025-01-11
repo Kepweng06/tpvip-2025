@@ -157,7 +157,7 @@ img {
 .tg {
   position: fixed;
   right: 0;
-  top: 39%;
+  top: 31%;
   margin: auto;
   z-index: 999;
   width: 8rem;
@@ -167,13 +167,13 @@ img {
   width: 100%;
 }
 #times1 {
-  top: 44%;
+  top: 36%;
 }
 #times2 {
   top: 54%;
 }
 #times3 {
-  top: 54.5%;
+  top: 46.5%;
 }
 .pagcor {
   margin-top: -22%;
@@ -303,23 +303,25 @@ font-size: 1.5rem;
     right: 1%;
     width: 6.5rem;
     height: 6.5rem;
+    top: 29%;
   }
   #times1 {
     right: 1%;
     width: 3rem;
     height: 3rem;
-    top: 42%;
+    top: 37%;
   }
   #times2 {
     right: 1%;
     width: 3rem;
     height: 3rem;
+    top: 31%;
   }
   #times3 {
     right: 1%;
     width: 3rem;
     height: 3rem;
-    top: 50.5%;
+    top: 31.5%;
   }
 }
 @media (max-width: 550px) {
